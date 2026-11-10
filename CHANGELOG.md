@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/jpe-cribl/cc-stream-openrouter-rest-io/compare/v1.0.3...v1.0.4) (2026-11-10)
+
+
+### Bug Fixes
+
+* replace private names with role words ([#56](https://github.com/jpe-cribl/cc-stream-openrouter-rest-io/issues/56)) ([2d3913e](https://github.com/jpe-cribl/cc-stream-openrouter-rest-io/commit/2d3913edd40695fb16633b3b8ea46de6a1d6f5ac))
+
 ## [1.0.3](https://github.com/dryvist/cc-stream-openrouter-rest-io/compare/v1.0.2...v1.0.3) (2026-10-24)
 
 
